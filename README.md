@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JAEHYEOK_PARK&fontSize=70)
-
+<hr>
+<h2 font-weight = "bold">Github Stat card</h2>
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOONWALL&layout=compact&theme=nord&hide_border=true" /></a> 
-
+<hr>
+<h2 font-weight = "bold">Tech Stacks</h2>
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
