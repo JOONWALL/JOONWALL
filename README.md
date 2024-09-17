@@ -24,8 +24,7 @@
 </div>
 <hr>
 <h2 font-weight = "bold">📫 How to reach me </h2>
-<h4>hyuk5248@gmail.com</h4>
-<a href = "joonwall09@gachon.ac.kr" target="_blank" rel="noopener noreferrer">joonwall09@gachon.ac.kr</A>
+<h4>E-mail: joonwall09@gachon.ac.kr</h4>
 <!--
 
 **JOONWALL/JOONWALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
