@@ -3,7 +3,7 @@
 <!--<h2 font-weight = "bold">Github Stat card</h2>
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOONWALL&layout=compact&theme=nord&hide_border=true" /></a> 
 <hr>-->
-<h2 font-weight = "bold">🌱 I’m currently learning</h2>
+<h2 font-weight = "bold">🌱 Learning currently</h2>
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 </div>
 <hr>
-<h2 font-weight = "bold">📚 posting study records</h2>
+<h2 font-weight = "bold">📚 Posting study records</h2>
 <div>
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 &nbsp  
